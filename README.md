@@ -6,8 +6,8 @@ Welcome to the Mongo CRUD Student Project! This project demonstrates a simple CR
 
 ### Prerequisites
 
-- Java 11 or higher
-- Maven 3.6.3 or higher
+- Java 23 or higher
+- Maven 3.6.5 or higher
 - MongoDB
 
 ### 📦 Installation
